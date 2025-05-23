@@ -1,0 +1,9 @@
+point 1 2
+line 0 0 3 4
+rect 0 0 5 5
+
+square 1 1 4
+rhomb 2 2 6 8
+circle 0 0 5
+
+invalid input   1
